@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(135, 135, 214);
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.ur3e_robo img{
+    width: 340px;
+    height: 340px;
+}
+
+.foto_montagem img{
+    width: 340px;
+    height: 340px;
+}
+
+.foto_dispensa img{
+    width: 340px;
+    height: 340px;
+}
+
+.foto_carregamento img{
+    width: 340px;
+    height: 340px;
+}
+
+.imagem_universal iframe{
+    width: 340px;
+    height: 340px;
+}

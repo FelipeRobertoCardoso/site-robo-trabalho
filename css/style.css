@@ -5,27 +5,25 @@ body{
     font-size: 1.2rem;
 }
 
-.ur3e_robo img{
-    width: 340px;
-    height: 340px;
+nav a{
+    text-decoration: ;
+    margin-right: 8px;
 }
 
-.foto_montagem img{
-    width: 340px;
-    height: 340px;
+a{
+    text-decoration: none;
+    color: rgb(255, 25, 25);
 }
 
-.foto_dispensa img{
+img{
     width: 340px;
     height: 340px;
+    border-radius: 18px;
 }
 
-.foto_carregamento img{
+iframe{
     width: 340px;
     height: 340px;
+    border-radius: 18px;
 }
 
-.imagem_universal iframe{
-    width: 340px;
-    height: 340px;
-}

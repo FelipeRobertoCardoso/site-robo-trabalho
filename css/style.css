@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(135, 135, 214);
+    background:linear-gradient(to right, rgb(12, 23, 124), rgb(77, 75, 226), rgb(12, 23, 124));
     color: white;
     text-align: center;
     font-size: 1.2rem;
@@ -8,6 +8,13 @@ body{
 nav a{
     text-decoration: ;
     margin-right: 8px;
+    color: rgb(111, 240, 6);
+}
+
+a:hover{
+    border-radius: 12px;
+    background-color: rgba(128, 129, 128, 0.568);
+    padding: 0px 8px;
 }
 
 a{
@@ -27,3 +34,17 @@ iframe{
     border-radius: 18px;
 }
 
+.img_python img{
+    width: 240px;
+    height: 240px;
+}
+
+.img_c img{
+    width: 240px;
+    height: 240px;
+}
+
+.img_ur img{
+    width: 340px;
+    height: 139px;
+}
